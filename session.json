@@ -1,0 +1,37 @@
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "4I/tr+dI5/VMlWl0hOpbOoDRZ+xClK4xbe1win4fF2Q="
+      },
+      "public": {                                                                      "type": "Buffer",
+        "data": "1GK/JnF1+QWA5NDVPe2GBE5g6bnBZ1CXm+dIt+CyhS0="
+      }
+    },                                                                             "signedIdentityKey": {                                                           "private": {
+        "type": "Buffer",                                                              "data": "SBKna+Y3EFxQIgjw79mucAoPP39/p2TM+ZJEvBIAsXw="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "czJda/cjR8JT0mVRTimkiAIyDUPQVR8yV3MpbsNSS1w="
+      }                                                                            },
+    "signedPreKey": {
+      "keyPair": {                                                                     "private": {                                                                     "type": "Buffer",
+          "data": "YKKa5w0GqkUdVOwUPK+X3vCXwhnFvRqOaE6k7ejaB0c="
+        },                                                                             "public": {
+          "type": "Buffer",                                                              "data": "QojRt5kYBErN3HbfGbpwZji/2AhKEPcseGzg9nO/Ln8="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "uS032NJdGRUFN1Wyew1Fe5Mx1YAZLvYgpJt91LW8d55xkFfckHkoCTLchP3AbI      },                                                                             "keyId": 1
+    },
+    "registrationId": 154,                                                         "advSecretKey": "aH8Wcum2C6Zf9AnO+OdyXJstOkLjJfjDA9DML4R0Imw=",
+    "processedHistoryMessages": [
+      {
+        "key": {
+          "remoteJid": "62895332236228@s.whatsapp.net",
+          "fromMe": true,                                                                "id": "998710F9A7E0BD7ECAB1F2FC3B0270A6"
+        },
+        "messageTimestamp": 1661152682
+      },
